@@ -5,7 +5,7 @@ A modern React-based travel journal web application that allows users to documen
 🚀 Live Demo
 
 (Add your deployed link here if available)
-👉 https://your-live-link.com
+👉 (https://serene-seahorse-688b96.netlify.app/)
 
 📌 Features
 🌍 Add and display travel locations
